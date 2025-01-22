@@ -12,3 +12,7 @@ Technologies Used
 HTML: For structuring the card.
 CSS: For styling and hover effects.
 JavaScript: For the slideshow functionality.
+
+
+![image](https://github.com/user-attachments/assets/60c0a521-d355-4306-8755-3265b3a2cda1)
+
